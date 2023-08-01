@@ -20,7 +20,6 @@ public class maxmin {
                                    first, second, third, largest);
         System.out.printf("smallest of three numbers %d, %d, and %d is : %d %n", 
                                first, second, third, smallest);
-
     }
  
     public static int largest(int first, int second, int third) {
